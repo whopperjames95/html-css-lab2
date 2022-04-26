@@ -1,0 +1,31 @@
+header {
+    background-color: rgb(80, 79, 79);
+    height: 25vh ;
+    width: 100vw;
+}
+
+.left {
+    background-color: rgb(226, 226, 226) ;
+    height: 85vh;
+    width: 17vw
+}
+
+.right {
+    height: 85vh;
+    width: 17vw;
+    background-color: rgb(226, 226, 226);
+    position: absolute;
+    right: -8px;
+    top: 218px;
+}
+
+
+footer {
+    background-color: rgb(34, 32, 32);
+    width: 66vw;
+    height: 20vh;
+    position: absolute;
+    left: 251.2px;
+    bottom: -92px
+
+}
